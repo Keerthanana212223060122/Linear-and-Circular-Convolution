@@ -11,7 +11,7 @@ PC installed with SCILAB.
 ## PROGRAM (Linear Convolution): 
 
 **Linear Convolution**
-```
+```python
 x = input("Enter x(n) as a vector, e.g., [1 2 1 2]: ");
 h = input("Enter h(n) as a vector, e.g., [1 1]: ");
 
@@ -55,7 +55,7 @@ xtitle("y(n) = x(n) * h(n)");
 ## PROGRAM (Circular Convolution): 
 
 **Circular Convolution**
-```
+```python
 clc;
 clear;
 
